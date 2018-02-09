@@ -1,7 +1,3 @@
-title{
-   color: orange;
-}
-
 .header{
     color: white;
     font-size: 300%;
@@ -12,6 +8,26 @@ title{
     padding-top: 5%;
     padding-bottom: 5%;
 }
+
+.corevalues{
+    text-align: center;
+    overflow:hidden;
+    display:inline-table;
+}
+
+.corevalues .cell{
+    padding: 0px 40%;
+    display: inline;
+    float: left;
+}
+
+.corevalues .cell .info{
+    font-size: 10px;
+    display: inline-block;
+    float: left;    
+    text-align: justify;
+}
+
 
 /* Menu Bar */
 
