@@ -31,6 +31,20 @@
     font-size: 1.8vw;
 }
 
+.profile{
+    
+
+}
+
+.profile .question{
+    font-size: 2vw;
+}
+
+.profile .answer{
+    font-size: 1.8vw;
+}
+
+
 .verticalline{
     border-left: 4px solid #003262;
     height: -45vh;
