@@ -32,16 +32,19 @@
 }
 
 .profile{
-    
+    padding: 2vw; 
 
 }
 
 .profile .question{
     font-size: 2vw;
+    font-style: italic;
 }
 
 .profile .answer{
+    width: 40%;
     font-size: 1.8vw;
+    padding-bottom: 2vw;
 }
 
 
