@@ -37,14 +37,24 @@
 }
 
 .profile .question{
+    padding-left: 50%;
     font-size: 2vw;
     font-style: italic;
+}
+
+.profile .pic{
+    postition: relative;
+    float: left;  
+    width: 80%;
+    padding-left: 8%;
+    margin-right: -40%;
 }
 
 .profile .answer{
     width: 40%;
     font-size: 1.8vw;
     padding-bottom: 2vw;
+    padding-left: 50%;
 }
 
 
