@@ -33,7 +33,6 @@
 
 .profile{
     padding: 2vw; 
-
 }
 
 .profile .question{
@@ -43,11 +42,35 @@
 }
 
 .profile .pic{
-    postition: relative;
+    text-align: center;
     float: left;  
-    width: 80%;
-    padding-left: 8%;
-    margin-right: -40%;
+    width: 52%;
+    margin-right: -50%;
+}
+
+.profile .contactbutton{
+    white-space: nowrap;
+    width: 200%; 
+    line-height: 225%;
+    border: 3px solid #003262;
+    border-radius: 30px;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 2vw; 
+    text-decoration: none;
+}
+
+.profile .contactbutton:hover{
+    background-color: #003262;
+    color: white; 
+}
+
+
+.profile .title{
+    margin-left: -1%;
+    font-size: 3vw;
+    padding: 2% 1%;
 }
 
 .profile .answer{
