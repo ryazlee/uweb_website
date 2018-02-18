@@ -93,25 +93,24 @@
 
 ul {
     font-family: palatino linotype,serif;
-    font-size: 1.7vw;
+    font-size: 1.6vw;
     margin-top: 1%;
     margin-bottom: -1%;
     list-style-type: none;
     overflow: hidden;
+    width: 84%;
     /* background-color: #333; */
 }
 
 li {
+    padding: 2vw;
+    white-space:nowrap;
     display: inline;
-    float: left;
-    width: 13vw;
 }
 
 li a, .dropbtn {
     display: inline-block;
     color: white;
-    text-align: center;
-    padding: 1%;
     text-decoration: none;
 }
 
@@ -152,12 +151,14 @@ li.dropdown {
 
 .footer {
     font-family: palatino;
+    font-size: 1.5vw;
     position: relative;
     bottom: 0;
-    width: 100%;
+    width: 84%;
     background-color: #003262;
     color: white;
     padding:1vw 0;
+    margin-left: 8%;
     text-align: center;
 }
 
