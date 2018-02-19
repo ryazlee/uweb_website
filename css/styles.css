@@ -19,7 +19,7 @@
 }
 
 .corevalues .cell{
-    width: 28%; 
+    width: 32%; 
     font-size: 3vw;
     display: inline;
     text-align: center;
@@ -96,14 +96,15 @@ ul {
     font-size: 1.6vw;
     margin-top: 1%;
     margin-bottom: -1%;
+    padding-left: 8%;
     list-style-type: none;
-    overflow: hidden;
     width: 84%;
     /* background-color: #333; */
 }
 
 li {
-    padding: 2vw;
+    padding: 2%;
+    width:10%;
     white-space:nowrap;
     display: inline;
 }
