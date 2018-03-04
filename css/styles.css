@@ -103,14 +103,14 @@ ul {
 }
 
 li {
-    padding: 2%;
-    width:10%;
+    padding: 2% 2.3%;
+    width: 12%;
     white-space:nowrap;
     display: inline;
 }
 
 li a, .dropbtn {
-    display: inline-block;
+    display: inline;
     color: white;
     text-decoration: none;
 }
