@@ -234,7 +234,7 @@ li.dropdown {
 }
 
 .description{
-    padding: 2% 0; 
+    padding-top: 2%; 
     text-align: center;
 }
 
@@ -246,9 +246,27 @@ li.dropdown {
     color: red;
 }
 
+.description .subtitle{
+    font-family: palatino;
+    padding-bottom: 1%;
+    padding-left: 10%;
+    text-align: left;
+    font-size: 2.1vw;
+    color: black;
+}
+
+.description .title{
+    font-family: palatino;
+    padding-bottom: 3%;
+    text-align: center;
+    font-size: 3.2vw;
+    color: black;
+}
+
 .description .body{ 
     width: 80%;
     padding-left: 10%;
+    padding-bottom: 2%;
     text-align: justify;
     font-size: 2vw;
     color: grey;
