@@ -272,6 +272,15 @@ li.dropdown {
     color: grey;
 }
 
+hr {
+    display: block;
+    width: 80%;
+    margin: auto;
+    border: 0;
+    border-top: 5px solid black;
+    padding: 0; 
+}
+
 /* google map */
 #map{
     height: 400px;
