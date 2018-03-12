@@ -69,9 +69,9 @@
 
 
 .header{
-    font-family: palatino linotype;
+    font-family: 'Lora', serif;
     color: white;
-    font-size: 4.5vw;
+    font-size: 4.2vw;
     text-align: center;
     background: #003262;
     margin-left: 8%;
@@ -81,7 +81,7 @@
 }
 
 .corevalues{
-    font-family: palatino;
+    font-family: 'Lora', serif;
     display: flex;
     justify-content: center;
     margin-top: 10px;
@@ -102,13 +102,14 @@
 }
 
 .profile{
+    font-family: 'Lora', serif;
     padding: 2.3vw 0; 
 }
 
 .profile .question{
     padding-top: 0;
-    padding-left: 50%;
-    font-size: 2vw;
+    padding-left: 45%;
+    font-size: 1.9vw;
     font-style: italic;
 }
 
@@ -146,10 +147,10 @@
 }
 
 .profile .answer{
-    width: 38%;
+    width: 40%;
     font-size: 1.6vw;
     padding-bottom: 2vw;
-    padding-left: 52.2%;
+    padding-left: 47.3%;
 }
 
 
@@ -162,7 +163,7 @@
 /* Nav Bar */
 
 ul {
-    font-family: palatino linotype,serif;
+    font-family: 'Lora', serif;
     font-size: 1.6vw;
     margin-top: 1%;
     margin-bottom: -1%;
@@ -174,7 +175,7 @@ ul {
 
 li {
     padding: 2% 2.3%;
-    width: 12%;
+    width: 15%;
     white-space:nowrap;
     display: inline;
 }
@@ -194,7 +195,7 @@ li.dropdown {
 }
 
 .dropdown-content {
-    font-family: palatino linotype,serif;
+    font-family: 'Lora', serif;
     font-size: 1.3vw;
     display: none;
     position: absolute;
@@ -205,7 +206,7 @@ li.dropdown {
 }
 
 .dropdown-content a {
-    font-family: palatino linotype,serif;
+    font-family: 'Lora', serif;
     font-size: 1.3vw;
     color: black;
     padding: 12px 16px;
@@ -221,7 +222,7 @@ li.dropdown {
 }
 
 .footer {
-    font-family: palatino;
+    font-family: 'Lora', serif;
     font-size: 1.5vw;
     position: relative;
     bottom: 0;
@@ -239,7 +240,7 @@ li.dropdown {
 }
 
 .description .heading{
-    font-family: palatino; 
+    font-family: 'Lora', serif; 
     padding-bottom: 1%;
     text-align: center;
     font-size: 5vw;
@@ -247,7 +248,7 @@ li.dropdown {
 }
 
 .description .subtitle{
-    font-family: palatino;
+    font-family: 'Lora', serif;
     padding-bottom: 1%;
     padding-left: 10%;
     text-align: left;
@@ -256,7 +257,7 @@ li.dropdown {
 }
 
 .description .title{
-    font-family: palatino;
+    font-family: 'Lora', serif;
     padding-bottom: 3%;
     text-align: center;
     font-size: 3.2vw;
