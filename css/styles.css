@@ -221,6 +221,22 @@ li.dropdown {
     display: block;
 }
 
+.supporters{
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+.supporters .title{
+    font-size: 2vw;
+    padding: .5vw;
+}
+
+.supporters .content{
+    font-size: 1.5vw;
+    color: black;
+    margin-bottom: 2vw;
+}
+
 .footer {
     font-family: 'Lora', serif;
     font-size: 1.5vw;
